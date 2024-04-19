@@ -1,4 +1,4 @@
-<header>
+<header> My name is Abdulazeez Yusuf Akanbi, and I'm passionate about technology, aspiring to become a software developer/engineer. I'm eager to learn how to leverage GitHub to improve my skills. </header>
 
 <!--
   <<< Author notes: Course header >>>
